@@ -1,5 +1,8 @@
 # Aygaz-Bootcamp
-Aygaz Makine Öğrenmesi bootcamp'i projelerini içermektedir.
+Aygaz Makine Öğrenmesi bootcamp ilk projeyi içermektedir
+
+**kaggle linli:** https://www.kaggle.com/code/batuhnsano/aygaz-mlproject-1-b
+
 
 
 #**Gözeitmli Öğrenme**
